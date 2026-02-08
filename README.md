@@ -42,15 +42,15 @@ The **best model is saved automatically** when validation mIoU improves.
 
 ---
 
-## TensorBoard Result Example
+## TensorBoard Result
 
-Below is an example **validation mIoU curve** during training:
+Below is the **validation mIoU curve** during training:
 
 <p align="center">
   <img src="data.jpg" width="700"/>
 </p>
 
-This curve shows stable convergence around **~0.65 mIoU** on VOC validation.
+This curve shows **~0.65 mIoU** on VOC validation.
 
 ---
 
@@ -179,15 +179,15 @@ Le **meilleur modèle est sauvegardé automatiquement** lorsque le mIoU de valid
 
 ---
 
-## Exemple de Résultat TensorBoard
+## Résultat TensorBoard
 
-Voici un exemple de **courbe mIoU de validation** pendant l'entraînement :
+Voici le **courbe mIoU de validation** pendant l'entraînement :
 
 <p align="center">
   <img src="data.jpg" width="700"/>
 </p>
 
-Cette courbe montre une convergence stable autour de **~0.65 mIoU** sur la validation VOC.
+Cette courbe montre **~0.65 mIoU** sur la validation VOC.
 
 ---
 
@@ -268,4 +268,5 @@ Le script :
 
 
 GitHub: https://github.com/doramonmon2306
+
 
