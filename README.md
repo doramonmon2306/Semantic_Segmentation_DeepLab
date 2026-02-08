@@ -39,7 +39,6 @@ The training script:
   - **Mean Intersection-over-Union (mIoU)**
 
 The **best model is saved automatically** when validation mIoU improves.  
-:contentReference[oaicite:0]{index=0}
 
 ---
 
@@ -81,7 +80,6 @@ VOC/
 ```
 
 Then update the dataset path inside `main.py` if needed.  
-:contentReference[oaicite:1]{index=1}
 
 ---
 
@@ -102,8 +100,6 @@ During training:
 ```
 best_model.pth
 ```
-
-:contentReference[oaicite:2]{index=2}
 
 To view TensorBoard:
 
@@ -129,8 +125,6 @@ The script:
    - Original image
    - Predicted segmentation mask
 4. Prints detected class names in the image
-
-:contentReference[oaicite:3]{index=3}
 
 ---
 
@@ -274,3 +268,4 @@ Le script :
 
 
 GitHub: https://github.com/doramonmon2306
+
