@@ -19,8 +19,8 @@ Semantic_Segmentation_DeepLab/
 │
 ├── main.py        # Training pipeline (DeepLabV3 + VOC2012)
 ├── test.py        # Inference & visualization script
-├── data.jpg       # TensorBoard mIoU curve example
-├── best_model.pth # Saved best checkpoint (after training)
+├── data.jpg       # TensorBoard mIoU curve
+├── best_model.pth # Saved best checkpoint
 └── README.md
 ```
 
@@ -156,8 +156,8 @@ Semantic_Segmentation_DeepLab/
 │
 ├── main.py        # Pipeline d'entraînement (DeepLabV3 + VOC2012)
 ├── test.py        # Script d'inférence et de visualisation
-├── data.jpg       # Exemple de courbe mIoU TensorBoard
-├── best_model.pth # Meilleur checkpoint sauvegardé (après entraînement)
+├── data.jpg       # courbe mIoU TensorBoard
+├── best_model.pth # Meilleur checkpoint sauvegardé 
 └── README.md
 ```
 
@@ -268,5 +268,6 @@ Le script :
 
 
 GitHub: https://github.com/doramonmon2306
+
 
 
